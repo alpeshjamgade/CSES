@@ -2,4 +2,4 @@
 
 ## Introductory Problems
 
-* [Weird Algorithm](Introductory%20Problems/weird_algorithm/solution.md)
+* [Weird Algorithm](Introductory%20Problems/weird_algorithm/weird_algorithm.cpp)
