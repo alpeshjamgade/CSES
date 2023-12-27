@@ -9,6 +9,7 @@
 ## Dynamic Programming
 
 ## Graph Algorithms
+- [Counting Rooms](Graph%20Algorithms/Counting%20Rooms/solution.cpp)
 
 ## Range Queries
 
