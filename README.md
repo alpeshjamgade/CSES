@@ -10,6 +10,7 @@
 
 ## Graph Algorithms
 - [Counting Rooms](Graph%20Algorithms/Counting%20Rooms/solution.cpp)
+- [Labyrinth](Graph%20Algorithms/Labyrinth/solution.cpp)
 
 ## Range Queries
 
