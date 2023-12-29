@@ -1,27 +1,27 @@
-# CSES Problems Solutions
+# CSES Problems Solutions (3/317)
 
-## Introductory Problems
+## Introductory Problems (1/19)
 
 - [Weird Algorithm](Introductory%20Problems/Weird%20Algorithm/solution.cpp)
 
-## Sorting and Searching
+## Sorting and Searching (0/35)
 
-## Dynamic Programming
+## Dynamic Programming (0/19)
 
-## Graph Algorithms
+## Graph Algorithms (0/36)
 - [Counting Rooms](Graph%20Algorithms/Counting%20Rooms/solution.cpp)
 - [Labyrinth](Graph%20Algorithms/Labyrinth/solution.cpp)
 
-## Range Queries
+## Range Queries (0/19)
 
-## Tree Algorithms
+## Tree Algorithms (0/16)
 
-## Mathematics
+## Mathematics (0/31)
+ 
+## String Algorithms (0/34)
 
-## String Algorithms
+## Geometry (0/7)
 
-## Geometry
+## Advanced Techniques (0/24)
 
-## Advanced Techniques
-
-## Additional Problems
+## Additional Problems (0/77)
