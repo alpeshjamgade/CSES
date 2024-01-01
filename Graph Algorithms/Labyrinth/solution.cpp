@@ -59,7 +59,7 @@ int main()
        string path = "";
        while(ei^si || ej^sj) {
             path += p[ei][ej];
-            int dd = d[ei][ej]^2;
+            int dd = d[ei][ej]^2;  // select direction opposite to what it took to come to ei, ej
             ei += di[dd];
             ej += dj[dd];
        }
