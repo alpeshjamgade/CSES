@@ -1,4 +1,4 @@
-# CSES Problems Solutions (5/317)
+# CSES Problems Solutions (7/317)
 
 ## Introductory Problems (1/19)
 
@@ -8,7 +8,9 @@
 
 - [Distinct Numbers](Sorting%20and%20Searching/Distinct%20Numbers/solution.cpp)
 
-## Dynamic Programming (0/19)
+## Dynamic Programming (1/19)
+- [Dice Combinations](Dynamic%20Programming/Dice%20Combinations/solution.cpp)
+
 
 ## Graph Algorithms (2/36)
 
@@ -19,7 +21,9 @@
 
 - [Static Range Sum Queries](Range%20Queries/Static%20Range%20Sum%20Queries/solution.cpp)
 
-## Tree Algorithms (0/16)
+## Tree Algorithms (1/16)
+- [Subordinates](Tree%20Algorithms/Subordinates/solution.cpp)
+
 
 ## Mathematics (0/31)
 
