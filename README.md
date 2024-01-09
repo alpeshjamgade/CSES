@@ -1,4 +1,4 @@
-# CSES Problems Solutions (7/317)
+# CSES Problems Solutions 9/317)
 
 ## Introductory Problems (2/19)
 
@@ -9,9 +9,11 @@
 
 - [Distinct Numbers](Sorting%20and%20Searching/Distinct%20Numbers/solution.cpp)
 
-## Dynamic Programming (1/19)
+## Dynamic Programming (3/19)
 
 - [Dice Combinations](Dynamic%20Programming/Dice%20Combinations/solution.cpp)
+- [Minimizing Coins](Dynamic%20Programming/Minimizing%20Coins/solution.cpp)
+- [Coin Combinations I](Dynamic%20Programming/Coin%20Combinations%20I/solution.cpp)
 
 ## Graph Algorithms (3/36)
 
