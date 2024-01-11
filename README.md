@@ -1,9 +1,10 @@
-# CSES Problems Solutions 9/317)
+# CSES Problems Solutions (11/317)
 
-## Introductory Problems (2/19)
+## Introductory Problems (3/19)
 
 - [Weird Algorithm](Introductory%20Problems/Weird%20Algorithm/solution.cpp)
 - [Missing Number](Introductory%20Problems/Missing%20Number/solution.cpp)
+- [Repetitions](Introductory%20Problems/Repetitions/solution.cpp)
 
 ## Sorting and Searching (1/35)
 
@@ -15,11 +16,12 @@
 - [Minimizing Coins](Dynamic%20Programming/Minimizing%20Coins/solution.cpp)
 - [Coin Combinations I](Dynamic%20Programming/Coin%20Combinations%20I/solution.cpp)
 
-## Graph Algorithms (3/36)
+## Graph Algorithms (4/36)
 
 - [Counting Rooms](Graph%20Algorithms/Counting%20Rooms/solution.cpp)
 - [Labyrinth](Graph%20Algorithms/Labyrinth/solution.cpp)
 - [Building Roads](Graph%20Algorithms/Building%20Roads/solution.cpp)
+- [Message Route](Graph%20Algorithms/Message%20Route/solution.cpp)
 
 ## Range Queries (1/19)
 
