@@ -1,4 +1,4 @@
-# CSES Problems Solutions (11/317)
+# CSES Problems Solutions (14/317)
 
 ## Introductory Problems (3/19)
 
@@ -16,16 +16,19 @@
 - [Minimizing Coins](Dynamic%20Programming/Minimizing%20Coins/solution.cpp)
 - [Coin Combinations I](Dynamic%20Programming/Coin%20Combinations%20I/solution.cpp)
 
-## Graph Algorithms (4/36)
+## Graph Algorithms (6/36)
 
 - [Counting Rooms](Graph%20Algorithms/Counting%20Rooms/solution.cpp)
 - [Labyrinth](Graph%20Algorithms/Labyrinth/solution.cpp)
 - [Building Roads](Graph%20Algorithms/Building%20Roads/solution.cpp)
 - [Message Route](Graph%20Algorithms/Message%20Route/solution.cpp)
+- [Building Roads](Graph%20Algorithms/Building%20Roads/solution.cpp)
+- [Round Trip](Graph%20Algorithms/Round%20Trip/solution.cpp)
 
-## Range Queries (1/19)
+## Range Queries (2/19)
 
 - [Static Range Sum Queries](Range%20Queries/Static%20Range%20Sum%20Queries/solution.cpp)
+- [Static Range Minimum Queries](Range%20Queries/Static%20Range%20Minimum%20Queries/solution.cpp)
 
 ## Tree Algorithms (1/16)
 
