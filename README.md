@@ -1,4 +1,4 @@
-# CSES Problems Solutions (16/317)
+# CSES Problems Solutions (17/317)
 
 ## Introductory Problems (3/19)
 
@@ -18,7 +18,7 @@
 - [Removing Digits](Dynamic%20Programming/Removing%20Digits/solution.cpp)
 - [Grid Paths](Dynamic%20Programming/Grid%20Paths/solution.cpp)
 
-## Graph Algorithms (6/36)
+## Graph Algorithms (7/36)
 
 - [Counting Rooms](Graph%20Algorithms/Counting%20Rooms/solution.cpp)
 - [Labyrinth](Graph%20Algorithms/Labyrinth/solution.cpp)
@@ -26,6 +26,7 @@
 - [Message Route](Graph%20Algorithms/Message%20Route/solution.cpp)
 - [Building Roads](Graph%20Algorithms/Building%20Roads/solution.cpp)
 - [Round Trip](Graph%20Algorithms/Round%20Trip/solution.cpp)
+- [Monsters](Graph%20Algorithms/Monsters/solution.cpp)
 
 ## Range Queries (2/19)
 
