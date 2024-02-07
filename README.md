@@ -1,4 +1,4 @@
-# CSES Problems Solutions (20/317)
+# CSES Problems Solutions (21/317)
 
 ## Introductory Problems (3/19)
 
@@ -30,10 +30,11 @@
 - [Shortest Routes I](Graph%20Algorithms/Shortest%20Routes%20I/solution.cpp)
 - [Shortest Routes II](Graph%20Algorithms/Shortest%20Routes%20II/solution.cpp)
 
-## Range Queries (3/19)
+## Range Queries (4/19)
 
 - [Static Range Sum Queries](Range%20Queries/Static%20Range%20Sum%20Queries/solution.cpp)
 - [Static Range Minimum Queries](Range%20Queries/Static%20Range%20Minimum%20Queries/solution.cpp)
+- [Dynamic Range Sum Queries](Range%20Queries/Dynamic%20Range%20Sum%20Queries/solution.cpp)
 - [Dynamic Range Minimum Queries](Range%20Queries/Dynamic%20Range%20Minimum%20Queries/solution.cpp)
 
 ## Tree Algorithms (1/16)
