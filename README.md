@@ -1,4 +1,4 @@
-# CSES Problems Solutions (24/317)
+# CSES Problems Solutions (27/317)
 
 ## Introductory Problems (3/19)
 
@@ -32,13 +32,14 @@
 - [Flight Discount](Graph%20Algorithms/Flight%20Discount/solution.cpp)
 - [Cycle Finding](Graph%20Algorithms/Cycle%20Finding/solution.cpp)
 
-## Range Queries (5/19)
+## Range Queries (6/19)
 
 - [Static Range Sum Queries](Range%20Queries/Static%20Range%20Sum%20Queries/solution.cpp)
 - [Static Range Minimum Queries](Range%20Queries/Static%20Range%20Minimum%20Queries/solution.cpp)
 - [Dynamic Range Sum Queries](Range%20Queries/Dynamic%20Range%20Sum%20Queries/solution.cpp)
 - [Dynamic Range Minimum Queries](Range%20Queries/Dynamic%20Range%20Minimum%20Queries/solution.cpp)
 - [Range Xor Queries](Range%20Queries/Range%20Xor%20Queries/solution.cpp)
+- [Range Update Queries](Range%20Queries/Range%20Update%20Queries/solution.cpp)
 
 ## Tree Algorithms (1/16)
 
