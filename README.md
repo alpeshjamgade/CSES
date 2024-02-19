@@ -1,10 +1,11 @@
-# CSES Problems Solutions (27/317)
+# CSES Problems Solutions (29/317)
 
-## Introductory Problems (3/19)
+## Introductory Problems (4/19)
 
 - [Weird Algorithm](Introductory%20Problems/Weird%20Algorithm/solution.cpp)
 - [Missing Number](Introductory%20Problems/Missing%20Number/solution.cpp)
 - [Repetitions](Introductory%20Problems/Repetitions/solution.cpp)
+- [Increading Array](Introductory%20Problems/Increasing%20Array/solution.cpp)
 
 ## Sorting and Searching (1/35)
 
@@ -41,9 +42,10 @@
 - [Range Xor Queries](Range%20Queries/Range%20Xor%20Queries/solution.cpp)
 - [Range Update Queries](Range%20Queries/Range%20Update%20Queries/solution.cpp)
 
-## Tree Algorithms (1/16)
+## Tree Algorithms (2/16)
 
 - [Subordinates](Tree%20Algorithms/Subordinates/solution.cpp)
+- [Tree Matching](Tree%20Algorithms/Tree%20Matching/solution.cpp)
 
 
 ## Mathematics (0/31)
