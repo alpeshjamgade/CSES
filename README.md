@@ -1,11 +1,12 @@
-# CSES Problems Solutions (29/317)
+# CSES Problems Solutions (30/317)
 
-## Introductory Problems (4/19)
+## Introductory Problems (5/19)
 
 - [Weird Algorithm](Introductory%20Problems/Weird%20Algorithm/solution.cpp)
 - [Missing Number](Introductory%20Problems/Missing%20Number/solution.cpp)
 - [Repetitions](Introductory%20Problems/Repetitions/solution.cpp)
-- [Increading Array](Introductory%20Problems/Increasing%20Array/solution.cpp)
+- [Increasing Array](Introductory%20Problems/Increasing%20Array/solution.cpp)
+- [Permutations](Introductory%20Problems/Permutations/solution.cpp)
 
 ## Sorting and Searching (1/35)
 
