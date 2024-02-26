@@ -1,4 +1,4 @@
-# CSES Problems Solutions (30/317)
+# CSES Problems Solutions (31/317)
 
 ## Introductory Problems (5/19)
 
@@ -8,9 +8,10 @@
 - [Increasing Array](Introductory%20Problems/Increasing%20Array/solution.cpp)
 - [Permutations](Introductory%20Problems/Permutations/solution.cpp)
 
-## Sorting and Searching (1/35)
+## Sorting and Searching (2/35)
 
 - [Distinct Numbers](Sorting%20and%20Searching/Distinct%20Numbers/solution.cpp)
+- [Apartments](Sorting%20and%20Searching/Apartments/solution.cpp)
 
 ## Dynamic Programming (5/19)
 
